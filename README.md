@@ -4,18 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Install NPM (Node Package Manager) from https://nodejs.org/en
 
-Install Angular CLI by running
- 
-## Code scaffolding
-
-npm install -g @angular/cli
+Install Angular CLI by running `npm install -g @angular/cli`
 
 Pull the app from github link and open on your machine
 
-In VS Code (or IDE of your choice), run:
-
-## Code scaffolding
-npm install
+In VS Code (or IDE of your choice), run `npm install`
 
 ## Development server
 
