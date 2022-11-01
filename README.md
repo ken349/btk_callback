@@ -10,6 +10,8 @@ Pull the app from github link and open on your machine
 
 In VS Code (or IDE of your choice), run `npm install`
 
+For the data set column name i.e deposit date and mpesa code rename to deposit_date and mpesa_code
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
